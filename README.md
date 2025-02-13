@@ -12,6 +12,5 @@ The overall workflow of SpinEx-ML is shown in below
 
 ## Installation
 ### 1. git clone
-''' PYTHON
-  https://github.com/kylie0914/SpinEx.git
-'''
+    https://github.com/kylie0914/SpinEx.git
+
