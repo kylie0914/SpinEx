@@ -10,8 +10,8 @@ The overall workflow of SpinEx-ML is shown in below
 
 ![Clinical application of SpinEx for cancer detection and classification](https://github.com/user-attachments/assets/2e9a5d74-3a53-40a0-80a4-33f7b7972d22)
 
-### Installation
-#### 1. git clone
-'''c
+## Installation
+### 1. git clone
+''' PYTHON
 https://github.com/kylie0914/SpinEx.git
 '''
