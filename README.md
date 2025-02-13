@@ -10,11 +10,7 @@ The overall workflow of SpinEx-ML is shown in below
 
 ![Clinical application of SpinEx for cancer detection and classification](https://github.com/user-attachments/assets/2e9a5d74-3a53-40a0-80a4-33f7b7972d22)
 
-## Installation
-### 1. Cloning a repository
-If you want to get a full copy of an Git repository, enter below command in your terminal.
-    https://github.com/kylie0914/SpinEx.git
-
+## Simple Description
 ### 2. Cancer diagnostic model
 Dx fold in SpinEx_ML contains whole part of ancer diagnostic model.
 Three .py files in that folder: Utils.py, CrossValidation_Lasso_Dx.py, repeatedholdout_Lasso_Dx.py.
